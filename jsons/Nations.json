@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Guinée",
+		"leaderName": "Ahmed Sékou Touré",
+		"adjective": ["guinéen", "guinéenne"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Peuple de Guinée, l'heure de notre souveraineté a sonné.",
+		"startIntroPart2": "Nous avons fait le choix de la liberté. Nous préférons la pauvreté dans la liberté à la richesse dans l'esclavage. En avant pour la révolution !",
+		
+		"declaringWar": "Votre impérialisme ne passera pas ! La révolution guinéenne triomphera !",
+		"attacked": "Vous osez agresser un peuple libre ? Vous le regretterez amèrement.",
+		"defeated": "La lutte n'est pas terminée. Le peuple se souviendra et continuera le combat pour la dignité.",
+		"introduction": "Je suis Ahmed Sékou Touré, premier président de la République de Guinée. Que voulez-vous à notre nation souveraine ?",
+		
+		"neutralHello": "Salutations.",
+		"neutralLetsHearIt": ["Je vous écoute.","Parlez.","Continuez."],
+		"neutralNo": ["C'est inacceptable.","Nous refusons catégoriquement.","Non."],
+		"neutralYes": ["C'est un accord juste.","Nous acceptons.","Très bien."],
+
+		"hateHello": "Que voulez-vous encore ?",
+		"hateLetsHearIt": ["Parlez, et soyez bref.","Qu'y a-t-il ?","Dites ce que vous avez à dire."],
+		"hateNo": ["Jamais !","N'y pensez même pas !","Absolument pas."],
+		"hateYes": ["Soit... Pour l'instant.","Nous acceptons, à contrecœur.","Très bien..."],
+		
+		"afterPeace": "Que cette paix soit le symbole de notre force et de votre sagesse retrouvée.",
+		"tradeRequest": "Voici une proposition commerciale qui pourrait bénéficier à nos deux peuples.",
+
+		"outerColor": [206, 17, 38],
+		"innerColor": [252, 209, 22],
+		"unique": "Authenticité Révolutionnaire",
+		"cities": ["Conakry", "Kankan", "Nzérékoré", "Kindia", "Labé", "Mamou", "Faranah", "Boké", "Guéckédou", "Kissidougou", "Macenta", "Pita", "Dabola", "Kouroussa", "Siguiri", "Dalaba", "Tougué", "Koundara", "Télimélé", "Yomou", "Beyla", "Mandiana", "Gaoual", "Lélouma", "Koubia"]
+	}
+]
