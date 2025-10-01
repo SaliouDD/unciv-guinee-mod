@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Syli Cinéma",
+		"replaces": "Museum",
+		"uniqueTo": "Guinée",
+		"cost": 200,
+		"culture": 4,
+		"maintenance": 2,
+		"uniques": ["[+1 Culture] from every [Jungle] tile worked by this city", "Contains [2] slots for [Great Work of Art]"],
+		"requiredBuilding": "Opera House"
+	}
+]

@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Milice Populaire",
+		"unitType": "Melee",
+		"uniqueTo": "Guinée",
+		"replaces": "Infantry",
+		"movement": 10,
+		"strength": 1,
+		"cost": 5,
+		"requiredTech": "Plastics",
+		"promotions": ["Guerilla I"],
+		"uniques": ["Bonus de combat de +25% en territoire ami"],
+		"attackSound": "rifle"
+	}
+]
